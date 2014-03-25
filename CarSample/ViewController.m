@@ -25,10 +25,12 @@
 
 }
 
+// デリゲートメソッド
 - (void) didOpenRoof {
     self.view.backgroundColor = [UIColor blueColor];
 }
 
+// デリゲートメソッド
 - (void) didCloseRoof {
     self.view.backgroundColor = [UIColor whiteColor];
 }
