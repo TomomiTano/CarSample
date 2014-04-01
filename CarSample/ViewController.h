@@ -17,4 +17,7 @@
 @property (weak, nonatomic) IBOutlet UILabel *labelSpeed2;
 - (IBAction)buttonClicked:(UIButton *)sender;
 
+
+// tano
+
 @end
